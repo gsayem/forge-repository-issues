@@ -30,10 +30,10 @@ Forge utilizes optimized, database-specific provider packages. If you encounter 
 
 | Database | NuGet Package |
 | :--- | :--- |
-| **SQL Server** | `Forge.SqlServer` | 
-| **PostgreSQL** | `Forge.PostgreSql` |
-| **MySQL / MariaDB** | `Forge.MySql` |
-| **Oracle** | `Forge.Oracle` |
+| **SQL Server** | `Forge.Repository.SqlServer` | 
+| **PostgreSQL** | `Forge.Repository.PostgreSql` |
+| **MySQL / MariaDB** | `Forge.Repository.MySql` |
+| **Oracle** | `Forge.Repository.Oracle` |
 
 ---
 
